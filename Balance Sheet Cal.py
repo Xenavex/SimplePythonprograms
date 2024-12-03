@@ -1,4 +1,3 @@
-
 #  Name : Simple Balance Sheet Calculator
 #  IGN : Xenavex | Hatakechop3
 #  Discord : 𝐗𝐞𝐧𝐚𝐯𝐞𝐱
